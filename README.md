@@ -18,9 +18,10 @@ Oppdater med nye seksjoner dersom du legger til flere kameraer.
 
 Jeg har brukt simple-grid.css, som ligger vedlagt <a href="web/">her</a>.
 
+Noen eksempler kan du se på <a href="http://moon.hoyd.net/~hoyd/veikamera/">moon.hoyd.net/~hoyd/veikamera/</a>
+
 ## Usage
 Kjør run.sh scriptet i en `screen`
 
 ## Credit
 Alle bildene er hentet fra <a href="http://www.vegvesen.no/Trafikkinformasjon/Reiseinformasjon/Trafikkmeldinger/Webkamera">Statens Vegvesen sine veikameraer</a>. 
-
